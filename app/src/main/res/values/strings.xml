@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MyFirstDemo</string>
-    <string name="Email">junaidali4482@gmail.com</string>
-
+ 
+< s tring name="Email">junaidali4482@gmail.com</string>
+ 
+< s tring name="Email1">princehmza1122@gmail.com</string>
 </resources>
