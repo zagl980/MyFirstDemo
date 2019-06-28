@@ -1,7 +1,21 @@
 <resources>
-    <string name="app_name">MyFirstDemo</string>
- 
-   <string name="Email">junaidali4482@gmail.com</string>
- 
-    <string name="Email1">princehmza1122@gmail.com</string>
+    <string name="app_name">Report Card</string>
+    <string name="report_card">Report Card</string>
+    <string name="student_name">Student Name</string>
+    <string name="Class">Class</string>
+    <string name="Section">Section</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="subject_and_marks">Subject And Marks</string>
+    <string name="english">English</string>
+    <string name="pak_study">PAK Study</string>
+    <string name="urdu">Urdu</string>
+    <string name="Islamyat">Islamyat</string>
+    <string name="math">Math</string>
+    <string name="science">Science</string>
+    <string name="geograpy">Geography</string>
+    <string name="computer">Computer</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="email">junaidali4482@gmail.com</string>
+
 </resources>
